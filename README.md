@@ -6,3 +6,5 @@ What are the various ways that you can screw your life but can't help
 - [] Youtube
 - [] Trading
 - [] Tech Videos
+- [] What ?
+- [] Where ?

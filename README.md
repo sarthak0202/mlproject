@@ -4,4 +4,4 @@ What are the various ways that you can screw your life but can't help
 - [] Overeating
 - [x] Porn
 - [] Youtube
-
+- [] Trading

@@ -1,4 +1,8 @@
 pandas
+cmake
 numpy
 seaborn
+xgboost
+scikit-learn
+catboost
 -e .
